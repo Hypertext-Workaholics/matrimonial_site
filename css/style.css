@@ -1,0 +1,32 @@
+body
+{
+    font-family: cursive;
+}
+#slide{
+    background-image:url("../img/home-banner-ri.webp");
+    background-repeat: no-repeat;
+}
+.bg-orange
+{
+    background-color: orangered;
+}
+.bg-red
+{
+    background-color: rgb(226, 12, 12);
+}
+.text-red
+{
+    color: rgb(226, 12, 12);
+}
+.text-orange
+{
+    color: orangered;
+}
+.circle
+{
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+    /* border: 1px solid black; */
+    float: left;
+}
